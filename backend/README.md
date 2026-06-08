@@ -184,10 +184,8 @@ npm run dev
 
 ## API Documentation
 
-Swagger Documentation:
 
-```text
-http://localhost:5000/api-docs
+
 ```
 
 Postman Collection:
@@ -233,7 +231,7 @@ The application follows several scalability practices:
 Full Stack Developer | MERN Stack Developer
 
 * GitHub: https://github.com/vermahoney
-* LinkedIn: https://linkedin.com/in/your-linkedin
+
 
 ---
 
